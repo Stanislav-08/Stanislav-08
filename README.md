@@ -3,7 +3,8 @@ I'm a full-stack and embedded developer turning ideas into open-source code and 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stanislav-ivanov-profile) [![Figma](https://shields.io)](https://figma.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stanislav-ivanov-profile) [![Figma](https://badgen.net)](https://figma.com)
+
 
 
 
